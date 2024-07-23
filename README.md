@@ -10,7 +10,8 @@ This repository contains python code to process EEG data. It has been developped
  ┗ 📜setup.py
  ```
 
-Data collected from speed caping subjects can be downloaded here : https://filesender.renater.fr/?s=download&token=4d03a734-9850-4c1f-8ac9-496e57524e59
+Data collected from speed caping subjects can be downloaded here : https://filesender.renater.fr/?s=download&token=0648bbea-13f7-4c4d-9aa8-4342e4397898
+
 If the link is down please send a mail to : mathias.rihet@isae-supaero.fr
 
 Three tasks have been performed by subjects :
